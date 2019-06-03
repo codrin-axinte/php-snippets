@@ -41,11 +41,11 @@ function string_protect($string, $length = 4, $placeholder = 'X') {
 - Cache: https://github.com/spatie/laravel-responsecache
 - ElasticSearch: https://github.com/cviebrock/laravel-elasticsearch
 - Messenger: https://github.com/cmgmyr/laravel-messenger
-- Invoice Package: https://github.com/faustbrian/Laravel-Invoice
+- (Invoice Package)[https://github.com/faustbrian/Laravel-Invoice]
 
 ### VueJs
-Vue Translations : https://github.com/kirschbaum-development/laravel-translations-loader
-Vue Pagination : https://github.com/gilbitron/laravel-vue-pagination
+- Vue Translations : https://github.com/kirschbaum-development/laravel-translations-loader
+- Vue Pagination : https://github.com/gilbitron/laravel-vue-pagination
 
 ## Utils
-    * Relationships 101: https://hackernoon.com/eloquent-relationships-cheat-sheet-5155498c209
+ - Relationships 101: https://hackernoon.com/eloquent-relationships-cheat-sheet-5155498c209
