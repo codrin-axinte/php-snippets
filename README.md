@@ -20,3 +20,32 @@ function string_protect($string, $length = 4, $placeholder = 'X') {
       ); 
 }
 ```
+
+## Packages:
+### Laravel
+Recaptcha https://laravel-recaptcha-docs.biscolab.com/docs/how-to-use-v2
+Translations Manager: https://github.com/barryvdh/laravel-translation-manager
+Statuses: https://github.com/spatie/laravel-model-status
+Currency (Deprecated: Countries overrides this package): https://github.com/Torann/laravel-currency
+GeoIP: https://github.com/Torann/laravel-geoip
+ActivityLogger: https://github.com/spatie/laravel-activitylog
+Countries: https://github.com/antonioribeiro/countries-laravel
+Ban: https://github.com/cybercog/laravel-ban
+Email Confirmation (Deprecated: if upgraded to 5.7, use the built-in functionality): https://github.com/beyondcode/laravel-confirm-email
+Campaign: https://laravel-news.com/laravel-campaign-monitor
+Text Avatars: https://github.com/laravolt/avatar
+Query Builder(Good for API Filters): https://github.com/spatie/laravel-query-builder
+Breadcrumbs: https://laravel-news.com/laravel-breadcrumbs-package
+Count Models (Deprecated: depends on Redis): https://github.com/awssat/laravel-visits
+FireBase: https://github.com/brozot/Laravel-FCM | https://github.com/benwilkins/laravel-fcm-notification
+Cache: https://github.com/spatie/laravel-responsecache
+ElasticSearch: https://github.com/cviebrock/laravel-elasticsearch
+Messenger: https://github.com/cmgmyr/laravel-messenger
+Invoice Package: https://github.com/faustbrian/Laravel-Invoice
+
+### VueJs
+Vue Translations : https://github.com/kirschbaum-development/laravel-translations-loader
+Vue Pagination : https://github.com/gilbitron/laravel-vue-pagination
+
+## Utils
+    * Relationships 101: https://hackernoon.com/eloquent-relationships-cheat-sheet-5155498c209
