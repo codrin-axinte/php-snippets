@@ -26,6 +26,7 @@ function string_protect($string, $length = 4, $placeholder = 'X') {
  - [Security](#Security)
  - [Localisation](#Localisation)
  - [Optimisation](#Optimisation)
+ - [Marketing](#Marketing)
  - [Generic](#Generic)
  
 #### Security
@@ -36,7 +37,6 @@ function string_protect($string, $length = 4, $placeholder = 'X') {
 
 #### Localisation
 - [Translations Manager](https://github.com/barryvdh/laravel-translation-manager)
-- [Statuses](https://github.com/spatie/laravel-model-status)
 - [Currency](https://github.com/Torann/laravel-currency) - Don't need this one if the countries package is used
 - [GeoIP](https://github.com/Torann/laravel-geoip)
 - [Countries](https://github.com/antonioribeiro/countries-laravel)
@@ -46,9 +46,11 @@ function string_protect($string, $length = 4, $placeholder = 'X') {
 - [Cache](https://github.com/spatie/laravel-responsecache)
 - [ElasticSearch](https://github.com/cviebrock/laravel-elasticsearch)
 
-#### Generic
-
+#### Marketing
 - [Campaign](https://laravel-news.com/laravel-campaign-monitor)
+
+#### Generic
+- [Statuses](https://github.com/spatie/laravel-model-status)
 - [Text Avatars](https://github.com/laravolt/avatar)
 - [Query Builder(Good for API Filters)](https://github.com/spatie/laravel-query-builder)
 - [Breadcrumbs](https://laravel-news.com/laravel-breadcrumbs-package)
