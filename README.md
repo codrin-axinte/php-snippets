@@ -23,15 +23,31 @@ function string_protect($string, $length = 4, $placeholder = 'X') {
 
 ## Packages:
 ### Laravel
+ 1 [Security](#Security)
+ 1 [Localisation](#Localisation)
+ 1 [Optimisation](#Optimisation)
+ 1 [Generic](#Generic)
+ 
+#### Security
+- [Ban](https://github.com/cybercog/laravel-ban)
+- [Email Confirmation](https://github.com/beyondcode/laravel-confirm-email): Deprecated: if upgraded to 5.7, use the built-in functionality
 - [Recaptcha](https://laravel-recaptcha-docs.biscolab.com/docs/how-to-use-v2)
+- [ActivityLogger](https://github.com/spatie/laravel-activitylog)
+
+#### Localisation
 - [Translations Manager](https://github.com/barryvdh/laravel-translation-manager)
 - [Statuses](https://github.com/spatie/laravel-model-status)
 - [Currency](https://github.com/Torann/laravel-currency): Don't need this one if the countries package is used
 - [GeoIP](https://github.com/Torann/laravel-geoip)
-- [ActivityLogger](https://github.com/spatie/laravel-activitylog)
 - [Countries](https://github.com/antonioribeiro/countries-laravel)
-- [Ban](https://github.com/cybercog/laravel-ban)
-- [Email Confirmation](https://github.com/beyondcode/laravel-confirm-email): Deprecated: if upgraded to 5.7, use the built-in functionality
+
+
+#### Optimisation
+- [Cache](https://github.com/spatie/laravel-responsecache)
+- [ElasticSearch](https://github.com/cviebrock/laravel-elasticsearch)
+
+#### Generic
+
 - [Campaign](https://laravel-news.com/laravel-campaign-monitor)
 - [Text Avatars](https://github.com/laravolt/avatar)
 - [Query Builder(Good for API Filters)](https://github.com/spatie/laravel-query-builder)
@@ -39,8 +55,6 @@ function string_protect($string, $length = 4, $placeholder = 'X') {
 - [Count Models](https://github.com/awssat/laravel-visits): Depends on Redis
 - [FireBase](https://github.com/brozot/Laravel-FCM) 
 - [FireBase Notification](https://github.com/benwilkins/laravel-fcm-notification)
-- [Cache](https://github.com/spatie/laravel-responsecache)
-- [ElasticSearch](https://github.com/cviebrock/laravel-elasticsearch)
 - [Messenger](https://github.com/cmgmyr/laravel-messenger)
 - [Invoice Package](https://github.com/faustbrian/Laravel-Invoice)
 
