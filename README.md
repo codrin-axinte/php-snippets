@@ -30,14 +30,14 @@ function string_protect($string, $length = 4, $placeholder = 'X') {
  
 #### Security
 - [Ban](https://github.com/cybercog/laravel-ban)
-- [Email Confirmation](https://github.com/beyondcode/laravel-confirm-email): Deprecated: if upgraded to 5.7, use the built-in functionality
+- [Email Confirmation](https://github.com/beyondcode/laravel-confirm-email) - Deprecated: if upgraded to 5.7, use the built-in functionality
 - [Recaptcha](https://laravel-recaptcha-docs.biscolab.com/docs/how-to-use-v2)
 - [ActivityLogger](https://github.com/spatie/laravel-activitylog)
 
 #### Localisation
 - [Translations Manager](https://github.com/barryvdh/laravel-translation-manager)
 - [Statuses](https://github.com/spatie/laravel-model-status)
-- [Currency](https://github.com/Torann/laravel-currency): Don't need this one if the countries package is used
+- [Currency](https://github.com/Torann/laravel-currency) - Don't need this one if the countries package is used
 - [GeoIP](https://github.com/Torann/laravel-geoip)
 - [Countries](https://github.com/antonioribeiro/countries-laravel)
 
@@ -52,15 +52,15 @@ function string_protect($string, $length = 4, $placeholder = 'X') {
 - [Text Avatars](https://github.com/laravolt/avatar)
 - [Query Builder(Good for API Filters)](https://github.com/spatie/laravel-query-builder)
 - [Breadcrumbs](https://laravel-news.com/laravel-breadcrumbs-package)
-- [Count Models](https://github.com/awssat/laravel-visits): Depends on Redis
+- [Count Models](https://github.com/awssat/laravel-visits) - Depends on Redis
 - [FireBase](https://github.com/brozot/Laravel-FCM) 
 - [FireBase Notification](https://github.com/benwilkins/laravel-fcm-notification)
 - [Messenger](https://github.com/cmgmyr/laravel-messenger)
 - [Invoice Package](https://github.com/faustbrian/Laravel-Invoice)
 
 ### VueJs
-- Vue Translations : https://github.com/kirschbaum-development/laravel-translations-loader
-- Vue Pagination : https://github.com/gilbitron/laravel-vue-pagination
+- [Vue Translations](https://github.com/kirschbaum-development/laravel-translations-loader)
+- [Vue Pagination](https://github.com/gilbitron/laravel-vue-pagination)
 
 ## Utils
- - Relationships 101: https://hackernoon.com/eloquent-relationships-cheat-sheet-5155498c209
+ - [Relationships 101](https://hackernoon.com/eloquent-relationships-cheat-sheet-5155498c209)
