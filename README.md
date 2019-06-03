@@ -23,10 +23,10 @@ function string_protect($string, $length = 4, $placeholder = 'X') {
 
 ## Packages:
 ### Laravel
- 1 [Security](#Security)
- 1 [Localisation](#Localisation)
- 1 [Optimisation](#Optimisation)
- 1 [Generic](#Generic)
+ - [Security](#Security)
+ - [Localisation](#Localisation)
+ - [Optimisation](#Optimisation)
+ - [Generic](#Generic)
  
 #### Security
 - [Ban](https://github.com/cybercog/laravel-ban)
